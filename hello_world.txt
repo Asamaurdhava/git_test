@@ -1,1 +1,3 @@
 specstan says "Hi, Odin!"
+
+Odin says "Hi, specstan! Good luck with your learning!"
